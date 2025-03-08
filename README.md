@@ -94,7 +94,7 @@ The `util.py` file is responsible for loading saved artifacts and providing help
 #### Clone the Repository
 ```sh
 git clone https://github.com/AdityaJollyy/Bangalore-House-Price-Prediction-Model.git
-cd House-Price-Prediction-Model
+cd Bangalore-House-Price-Prediction-Model
 ```
 
 #### Create and Activate a Virtual Environment
