@@ -1,6 +1,7 @@
 # Bangalore House Price Prediction Model
 
 This project is a Flask-based web application that lets users predict house prices based on inputs such as total square feet, location, number of bathrooms, balconies, and BHK. The application serves a modern frontend interface (HTML/CSS/JS) along with REST API endpoints to retrieve data such as available locations and estimated prices.
+
 The dataset was downloaded from: https://www.kaggle.com/amitabhajoy/bengaluru-house-price-data
 
 ---
