@@ -1,0 +1,17 @@
+# .gitignore file for House Price Prediction Model
+
+# Ignore the Conda environment directory
+# Conda environments
+.conda/
+conda-env/
+envs/
+
+# Ignore the __pycache__ directory inside the server folder
+server/__pycache__/
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv/
+.env/
